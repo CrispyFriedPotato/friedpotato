@@ -1,7 +1,6 @@
 # Jiho Lee
 ## _Software Engineer_
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=%20JihoLee%20&fontSize=100&animation=scaleIn&fontColor=#FDB5B0)
-<img src="https://img.shields.io/github/followers/AlpoxDev?style=social">
 
 
 ![GitHub followers](https://img.shields.io/github/followers/CrispyFriedPotato?style=social)
@@ -13,7 +12,6 @@ Jiho loves crispy fried potato. That's why most of her nickname has a word "cris
 - B.E., Computer Science
 - Light Field Lab
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
