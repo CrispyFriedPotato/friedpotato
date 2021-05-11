@@ -1,18 +1,18 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
-![header](https://capsule-render.vercel.app/api?type=slice&color=#B893E6&height=400&section=header&text=%20JihoLee%20&fontSize=100&animation=blink&fontColor=#FDB5B0)
+# Jiho Lee
+## _Software Engineer_
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=%20JihoLee%20&fontSize=100&animation=blink&fontColor=#FDB5B0)
+<img src="https://img.shields.io/github/followers/AlpoxDev?style=social">
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![GitHub followers](https://img.shields.io/github/followers/CrispyFriedPotato?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D4AADD&title_bg=%23989BD9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+Jiho loves crispy fried potato. That's why most of her nickname has a word "crispy" and her website logo is a red box written J of Jiho with french fries from M company.
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+- M.E., Computer Science
+- B.E., Computer Science
+- Light Field Lab
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
