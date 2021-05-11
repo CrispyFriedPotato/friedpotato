@@ -1,6 +1,6 @@
 # Jiho Lee
 ## _Software Engineer_
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=%20JihoLee%20&fontSize=100&animation=blink&fontColor=#FDB5B0)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=%20JihoLee%20&fontSize=100&animation=scaleIn&fontColor=#FDB5B0)
 <img src="https://img.shields.io/github/followers/AlpoxDev?style=social">
 
 ![GitHub followers](https://img.shields.io/github/followers/CrispyFriedPotato?style=social)
